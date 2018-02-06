@@ -1,0 +1,22 @@
+{
+  "name": "flapper-news",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Matias Harding <matias.harding@apptec.cl>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.9",
+    "angular-ui-router": "^1.0.14",
+    "bootstrap": "^4.0.0"
+  }
+}
